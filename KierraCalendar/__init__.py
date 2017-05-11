@@ -19,4 +19,4 @@ heroku = Heroku(app)
 bootstrap = Bootstrap(app)
 
 
-import KierraCalendar.mainScreen
+import KierraCalendar.admin.admin
