@@ -20,3 +20,6 @@ app.debug = True
 heroku = Heroku(app)
 db = SQLAlchemy(app)
 bootstrap = Bootstrap(app)
+
+
+import KierraCalendar.mainScreen
